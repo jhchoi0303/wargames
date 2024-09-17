@@ -1,0 +1,8 @@
+1. Let’s Encrypt
+2. 153
+3. 67c6bf8ffda56fcb359fba7f0149f85422223cf021ab1a0af701de5dd2091498
+4. ECDHE-RSA-AES256-GCM-SHA384
+5. https://blog.didierstevens.com/2020/12/14/decrypting-tls-streams-with-wireshark-part-1/
+crypto{weaknesses_of_non_ephemeral_key_exchange}
+6.https://firefox-source-docs.mozilla.org/security/nss/legacy/key_log_format/index.html 
+crypto{export_SSLKEYLOGFILE}
